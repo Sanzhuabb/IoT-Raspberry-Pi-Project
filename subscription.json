@@ -1,0 +1,106 @@
+{
+  "topicFilter": "my_piTopic",
+  "qos": 0,
+  "messages": [
+    {
+      "format": "json",
+      "topic": "my_piTopic",
+      "timestamp": 1617869009247,
+      "payload": {
+        "timestamp": "2021-04-08T08:03:29Z",
+        "temperature": 28.6,
+        "humidity": 75
+      }
+    },
+    {
+      "format": "json",
+      "topic": "my_piTopic",
+      "timestamp": 1617869002985,
+      "payload": {
+        "timestamp": "2021-04-08T08:03:22Z",
+        "temperature": 28.7,
+        "humidity": 75
+      }
+    },
+    {
+      "format": "json",
+      "topic": "my_piTopic",
+      "timestamp": 1617868990518,
+      "payload": {
+        "timestamp": "2021-04-08T08:03:10Z",
+        "temperature": 27.8,
+        "humidity": 71
+      }
+    },
+    {
+      "format": "json",
+      "topic": "my_piTopic",
+      "timestamp": 1617868982223,
+      "payload": {
+        "timestamp": "2021-04-08T08:03:02Z",
+        "temperature": 27.1,
+        "humidity": 53
+      }
+    },
+    {
+      "format": "json",
+      "topic": "my_piTopic",
+      "timestamp": 1617868976050,
+      "payload": {
+        "timestamp": "2021-04-08T08:02:55Z",
+        "temperature": 26.8,
+        "humidity": 55
+      }
+    },
+    {
+      "format": "json",
+      "topic": "my_piTopic",
+      "timestamp": 1617868959356,
+      "payload": {
+        "timestamp": "2021-04-08T08:02:39Z",
+        "temperature": 25.5,
+        "humidity": 47
+      }
+    },
+    {
+      "format": "json",
+      "topic": "my_piTopic",
+      "timestamp": 1617868953124,
+      "payload": {
+        "timestamp": "2021-04-08T08:02:32Z",
+        "temperature": 25.6,
+        "humidity": 47
+      }
+    },
+    {
+      "format": "json",
+      "topic": "my_piTopic",
+      "timestamp": 1617868940645,
+      "payload": {
+        "timestamp": "2021-04-08T08:02:20Z",
+        "temperature": 25.5,
+        "humidity": 47
+      }
+    },
+    {
+      "format": "json",
+      "topic": "my_piTopic",
+      "timestamp": 1617868934394,
+      "payload": {
+        "timestamp": "2021-04-08T08:02:14Z",
+        "temperature": 25.6,
+        "humidity": 47
+      }
+    },
+    {
+      "format": "json",
+      "topic": "my_piTopic",
+      "timestamp": 1617868924026,
+      "payload": {
+        "timestamp": "2021-04-08T08:02:03Z",
+        "temperature": 25.2,
+        "humidity": 51
+      }
+    }
+  ]
+}
